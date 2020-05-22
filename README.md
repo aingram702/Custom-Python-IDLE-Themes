@@ -18,3 +18,6 @@ Custom themes for Python IDLE, including tango, desert, obsidian, monakai, Codea
   4) Replace **config-highlight.def** with the given file in this repo with the same name.
   5) Open IDLE, select **Options** from toolbar, then select **Configure IDLE**, and select **Built-in Theme**.
   6) Added themes will now be in the menu. Enjoy!!
+
+
+## Keep your eyes open for new themes to be added to this repo!!!
