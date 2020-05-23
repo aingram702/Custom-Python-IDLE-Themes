@@ -1,5 +1,5 @@
 # Custom-Python-IDLE-Themes
-Custom themes for Python IDLE, including tango, desert, obsidian, monakai, Codeacademy, CodeIt, Darcula, and a dark theme based on the classic IDLE theme called .
+Custom themes for Python IDLE, including tango, desert, obsidian, monakai, Codeacademy, CodeIt, Darcula, and a dark theme based on the classic IDLE theme called Classic IDLE Dark.
 
 **NOTE:** Use **.cfg for Linux**, and use **.def for Windows**.
 
