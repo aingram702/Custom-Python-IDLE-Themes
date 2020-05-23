@@ -308,7 +308,7 @@ stderr-foreground = #FF6B68
 stderr-background = #2B2B2B
 
 
-[Classic Darkness]
+[Classic IDLE Dark]
 normal-foreground = #ffffff
 normal-background = #494646
 keyword-foreground = #ff6400
